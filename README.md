@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👾
+Mi nombre es Kevin, desarrollo aplicaciones web, amante de la tecnologia y de la ciencia, en este lugar puedes encontrar mis proyectos.
 
 <!--
 **Kevin-Contreras/Kevin-Contreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
